@@ -1,4 +1,5 @@
 # Signal-Viewer
+A Desktop Software that visualizes bio-signals where you can scroll, play, pause, speed up, speed down, zoom in and zoom out the signal, as it views also its spectrogram.
 
 Our main target is to create multi-channel signal viewer application
 
